@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "ytDownloader",
-    cardImage: "#",
+    cardImage: "/assets/images/ytdownloader-banner.png",
     description: " A YouTube Video Downloader Made to Download High Quality YouTube Videos with a Simple GUI.",
     tagimg: "#",
     Previewlink: "https://github.com/itzkavindu/ytDownloader",
