@@ -8,10 +8,10 @@ const projects = [
   {
     title: "AnimeDex",
     cardImage: "assets/amdex/home.png",
-    description: " Anime Website",
-    tagimg: "https://github.com/itzkavindu/itzkavindu.github.io/blob/master/assets/images/ytDownloader-banner.png",
-    Previewlink: "https://github.com/itzkavindu/ytDownloader",
-    Githublink: "https://github.com/itzkavindu/ytDownloader",
+    description: "Watch anime for free in the best quality without any ads or registration",
+    tagimg: "https://github.com/derkila/AnimeDex/blob/1881498570c77bdc0aa26b038e935e4cc68e91fe/screenshots/anime.png",
+    Previewlink: "https://github.com/derkila/AnimeDex",
+    Githublink: "https://github.com/derkila/AnimeDex",
   },
 
   {
