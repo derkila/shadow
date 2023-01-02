@@ -8,19 +8,19 @@ const projects = [
   {
     title: "AnimeDex",
     cardImage: "assets/amdex/home.png",
-    description: "Watch anime for free in the best quality without any ads or registration",
+    description: "AnimeSite.",
     tagimg: "https://github.com/derkila/AnimeDex/blob/1881498570c77bdc0aa26b038e935e4cc68e91fe/screenshots/anime.png",
     Previewlink: "https://animedex.tk",
     Githublink: "https://github.com/derkila",
   },
 
   {
-    title: "Random Password Generator",
-    cardImage: "#",
-    description: "A Random Password Generator made from Python.",
+    title: "MovieDex",
+    cardImage: "assets/mdex/pelis.jpeg",
+    description: "Movies and Series site.",
     tagimg: "#",
-    Previewlink: "https://github.com/itzkavindu/random-password-generator",
-    Githublink: "https://github.com/itzkavindu/random-password-generator",
+    Previewlink: "https://moviedex.tk",
+    Githublink: "https://github.com/derkila",
   },
 ];
 
