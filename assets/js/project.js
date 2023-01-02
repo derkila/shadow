@@ -9,9 +9,9 @@ const projects = [
     title: "AnimeDEX",
     cardImage: "assets/amdex/home.png",
     description: " Watch anime for free in the best quality",
-    tagimg: "assets/amdex/home.png",
-    Previewlink: "https://animedex.tk",
-    Githublink: "https://github.com/derkila,
+    tagimg: "./assets/amdex/home.png",
+    Previewlink: "https://github.com/derkila/animedex",
+    Githublink: "https://github.com/derkila/animedex,
   },
 
   {
