@@ -10,8 +10,8 @@ const projects = [
     cardImage: "assets/amdex/home.png",
     description: "Watch anime for free in the best quality without any ads or registration",
     tagimg: "https://github.com/derkila/AnimeDex/blob/1881498570c77bdc0aa26b038e935e4cc68e91fe/screenshots/anime.png",
-    Previewlink: "https://github.com/derkila/AnimeDex",
-    Githublink: "https://github.com/derkila/AnimeDex",
+    Previewlink: "https://animedex.tk",
+    Githublink: "https://github.com/derkila",
   },
 
   {
